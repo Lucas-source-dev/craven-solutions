@@ -27,9 +27,9 @@ export default function Hero() {
         </div>
 
         <h1 className="text-5xl md:text-7xl lg:text-8xl font-black leading-[0.95] tracking-tight text-slate-900 mb-6 max-w-5xl">
-          We build software for{" "}
-          <span className="text-indigo-600">world-class</span>{" "}
-          companies.
+          We build software for
+          <br />
+          <span className="whitespace-nowrap"><span className="text-indigo-600">world-class</span> companies.</span>
         </h1>
 
         <div className="flex flex-col md:flex-row md:items-end justify-between gap-10 mt-8">
