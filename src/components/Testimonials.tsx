@@ -14,7 +14,7 @@ const testimonials = [
   },
   {
     quote:
-      "We'd worked with three agencies before — none came close to the quality and speed we got from Craven. They felt like a true extension of our in-house team from day one.",
+      "We'd worked with three agencies before - none came close to the quality and speed we got from Craven. They felt like a true extension of our in-house team from day one.",
     name: "Tyler Adams",
     title: "Head of Product, Upside",
     photo: `${CDN}/641362c0c070768432f47a98_tyler-adams-brix-agency-client.jpg`,
@@ -25,7 +25,7 @@ const testimonials = [
   },
   {
     quote:
-      "The app they built went from zero to 50k users in three months. The architecture they chose scaled perfectly. Couldn't be happier with the outcome — highly recommend.",
+      "The app they built went from zero to 50k users in three months. The architecture they chose scaled perfectly. Couldn't be happier with the outcome - highly recommend.",
     name: "Alexcia Chambers",
     title: "CTO, Certifid",
     photo: `${CDN}/641362c1abdff744c9ac8c1c_alexcia-chambers-brix-agency-client.jpg`,

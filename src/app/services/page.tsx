@@ -12,7 +12,7 @@ const services = [
     title: "Web Design",
     headline: "We design websites that convert.",
     description:
-      "Your website is your most powerful sales tool. We craft premium, conversion-focused websites that look stunning, load fast, and guide visitors toward action — whether that's signing up, buying, or booking a call.",
+      "Your website is your most powerful sales tool. We craft premium, conversion-focused websites that look stunning, load fast, and guide visitors toward action - whether that's signing up, buying, or booking a call.",
     features: [
       "Responsive design for all devices",
       "Conversion-optimized landing pages",
@@ -28,7 +28,7 @@ const services = [
     title: "Web Development",
     headline: "We build applications that scale.",
     description:
-      "From MVPs to enterprise platforms, we engineer full-stack web applications using modern frameworks. Our code is clean, tested, and built to grow with your business — no tech debt, no shortcuts.",
+      "From MVPs to enterprise platforms, we engineer full-stack web applications using modern frameworks. Our code is clean, tested, and built to grow with your business - no tech debt, no shortcuts.",
     features: [
       "React & Next.js front-end development",
       "Node.js, Python, and Go backends",
@@ -60,7 +60,7 @@ const services = [
     title: "Brand Design",
     headline: "We build brands that stand out.",
     description:
-      "In a crowded market, your brand is your edge. We create memorable brand identities — from logos and color palettes to full visual systems — that communicate your values and make you impossible to ignore.",
+      "In a crowded market, your brand is your edge. We create memorable brand identities - from logos and color palettes to full visual systems - that communicate your values and make you impossible to ignore.",
     features: [
       "Logo design and visual identity",
       "Brand guidelines and style guides",
@@ -76,7 +76,7 @@ const services = [
     title: "AI & Automation",
     headline: "We automate what slows you down.",
     description:
-      "AI is no longer optional — it's a competitive advantage. We integrate large language models, build intelligent workflows, and create AI-powered features that save your team hours every week.",
+      "AI is no longer optional - it's a competitive advantage. We integrate large language models, build intelligent workflows, and create AI-powered features that save your team hours every week.",
     features: [
       "LLM integration (OpenAI, Anthropic, Gemini)",
       "RAG pipelines and vector search",
@@ -92,7 +92,7 @@ const services = [
     title: "Conversion Optimization",
     headline: "We turn your visitors into customers.",
     description:
-      "Traffic without conversions is wasted spend. We use data, psychology, and rigorous testing to identify exactly where users drop off and systematically fix it — lifting revenue without increasing ad budgets.",
+      "Traffic without conversions is wasted spend. We use data, psychology, and rigorous testing to identify exactly where users drop off and systematically fix it - lifting revenue without increasing ad budgets.",
     features: [
       "A/B and multivariate testing",
       "Heatmap and session recording analysis",

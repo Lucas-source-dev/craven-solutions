@@ -14,7 +14,7 @@ const services = [
   {
     slug: "web-development",
     title: "Web Development",
-    desc: "Full-stack web applications built with React, Next.js, and Node.js — performant, scalable, and production-ready.",
+    desc: "Full-stack web applications built with React, Next.js, and Node.js - performant, scalable, and production-ready.",
     image: `${CDN}/69d67858a4edd37780a1077d_web-development-agency.png`,
     icon: `${CDN}/6a01b789185498135a8d6fc5_web-development-service.webp`,
   },

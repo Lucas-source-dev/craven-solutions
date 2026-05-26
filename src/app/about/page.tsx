@@ -41,7 +41,7 @@ const accomplishments = [
   {
     stat: "50+",
     title: "Projects shipped on time",
-    desc: "We've delivered over 50 world-class digital products — from MVPs to enterprise platforms — all on schedule and within budget.",
+    desc: "We've delivered over 50 world-class digital products - from MVPs to enterprise platforms - all on schedule and within budget.",
     img: `${CDN}/69d8ee809746c0322eef9def_webflow-templates-by-brix-agency.png`,
   },
   {
@@ -109,7 +109,7 @@ export default function AboutPage() {
                   We are<br />Craven Solutions.
                 </h1>
                 <p className="text-lg text-gray-500 leading-relaxed max-w-xl mb-10">
-                  We are not just an agency — we are a studio of engineers and
+                  We are not just an agency - we are a studio of engineers and
                   creatives that build amazing software products for startups,
                   enterprises, and ourselves.
                 </p>
@@ -255,7 +255,7 @@ export default function AboutPage() {
                 The values that drive<br />everything we do.
               </h2>
               <p className="text-gray-500 max-w-xl text-base leading-relaxed">
-                Great software isn&apos;t just about code — it&apos;s about the
+                Great software isn&apos;t just about code - it&apos;s about the
                 principles behind every decision we make.
               </p>
             </div>

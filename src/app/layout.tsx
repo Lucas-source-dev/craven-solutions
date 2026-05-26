@@ -9,9 +9,9 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Craven Solutions — Software Development Agency",
+  title: "Craven Solutions - Software Development Agency",
   description:
-    "Craven Solutions builds world-class software products — web apps, mobile apps, and custom platforms for startups and enterprises.",
+    "Craven Solutions builds world-class software products - web apps, mobile apps, and custom platforms for startups and enterprises.",
   icons: {
     icon: "/favicon.svg",
     shortcut: "/favicon.svg",
